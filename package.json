@@ -1,0 +1,20 @@
+{
+  "name": "sample-test-project",
+  "version": "1.0.0",
+  "description": "A simple test project demonstrating basic Node.js structure",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "test",
+    "sample",
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
